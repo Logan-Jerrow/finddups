@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable 'finddups'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=finddups",
+                    "--package=finddups"
+                ],
+                "filter": {
+                    "name": "finddups",
+                    "kind": "bin"
+                }
+            },
+            "args": [
+                "."
+            ],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable 'finddups'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=finddups",
+                    "--package=finddups"
+                ],
+                "filter": {
+                    "name": "finddups",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
