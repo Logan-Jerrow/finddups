@@ -35,6 +35,26 @@ impl Info {
         self.is_file() || self.is_dir()
     }
 
+    pub fn is_duplicate(&self, other: &Self) -> Result<bool, io::Error> {
+        if self.size != other.size {
+            return Ok(false);
+        }
+
+        let file1 = File::open(&self.path)?;
+        let file2 = File::open(&other.path)?;
+
+        let file1 = BufReader::new(file1);
+        let file2 = BufReader::new(file2);
+
+        for (b1, b2) in file1.bytes().zip(file2.bytes()) {
+            if b1.unwrap() != b2.unwrap() {
+                return Ok(false);
+            }
+        }
+
+        Ok(true)
+    }
+
     pub fn from_metadata<P: AsRef<Path>>(path: P, meta: Metadata) -> Self {
         Info::from_internal(path.as_ref().to_path_buf(), meta)
     }
