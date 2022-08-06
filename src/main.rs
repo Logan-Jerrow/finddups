@@ -5,67 +5,30 @@ use std::{
     path::Path,
 };
 
-use info::{Info, InfoKind};
+use info::{Duplicate, FileKind};
 
 mod info;
 
 struct Group<'a> {
     count: usize,
-    paths: Vec<&'a Info>,
+    paths: Vec<&'a Duplicate>,
+}
+
+impl<'a> Default for Group<'a> {
+    fn default() -> Self {
+        Self {
+            count: 1,
+            paths: Default::default(),
+        }
+    }
 }
 
 fn main() -> anyhow::Result<()> {
     let args = env::args().skip(1);
 
-    let (mut files, directories): (Vec<_>, Vec<_>) = args
-        .filter_map(|name| match Info::try_from(name) {
-            Ok(info) if info.is_file_or_dir() => Some(info),
-            Ok(_) => None,
-            Err(_) => None,
-        })
-        .partition(|info| info.kind == InfoKind::File);
+    let files = get_files(args);
 
-    println!();
-
-    for f in directories.iter() {
-        let visit = visit_dirs(&f.path, &mut |entry| {
-            if let Ok(info) = Info::try_from(entry) {
-                files.push(info);
-            };
-        });
-
-        if visit.is_err() {
-            eprintln!("Error visiting directories: {}", visit.unwrap_err());
-        }
-    }
-    let mut visited = vec![false; files.len()];
-
-    let mut groups: Vec<Group> = Vec::new();
-    for (index_first, f1) in files.iter().enumerate() {
-        if *visited
-            .get(index_first)
-            .expect("visited vector out of bounds!")
-        {
-            continue;
-        }
-        let mut group = Group {
-            count: 1,
-            paths: Vec::new(),
-        };
-        group.paths.push(f1);
-        for (index_second, f2) in files.iter().enumerate().skip(index_first + 1) {
-            if f1 == f2 {
-                group.count += 1;
-                group.paths.push(f2);
-                *visited
-                    .get_mut(index_second)
-                    .expect("Visited vector inner loop out of bounds!") = true;
-            }
-        }
-        if group.count > 1 {
-            groups.push(group);
-        }
-    }
+    let groups = get_groups(&files)?;
 
     for g in groups {
         for (i, p) in g.paths.into_iter().enumerate() {
@@ -92,4 +55,62 @@ fn visit_dirs(dir: &Path, cb: &mut dyn FnMut(&DirEntry)) -> io::Result<()> {
         }
     }
     Ok(())
+}
+
+fn get_files(args: impl Iterator<Item = String>) -> Vec<Duplicate> {
+    // TODO: Add files from local env if no args given.
+    // List files and directories from working directory.
+    let (mut files, directories): (Vec<_>, Vec<_>) = args
+        .filter_map(|name| match Duplicate::try_from(name) {
+            Ok(info) if info.is_file_or_dir() => Some(info),
+            Ok(_) => None,
+            Err(_) => None,
+        })
+        .partition(|info| info.kind == FileKind::File);
+
+    // Transverse directories grabbing every file path.
+    for f in directories.iter() {
+        let visit = visit_dirs(&f.path, &mut |entry| {
+            if let Ok(info) = Duplicate::try_from(entry) {
+                files.push(info);
+            };
+        });
+
+        if visit.is_err() {
+            eprintln!("Error visiting directories: {}", visit.unwrap_err());
+        }
+    }
+
+    files
+}
+
+fn get_groups(files: &[Duplicate]) -> anyhow::Result<Vec<Group>> {
+    let mut visited = vec![false; files.len()];
+    let mut groups: Vec<Group> = Vec::with_capacity(files.len());
+
+    for (i, f1) in files.iter().enumerate() {
+        if *visited.get(i).expect("visited vector out of bounds!") {
+            continue;
+        }
+        let mut group = Group::default();
+
+        group.paths.push(f1);
+        for (j, f2) in files.iter().enumerate() {
+            // If same file don't compare.
+            if i == j {
+                break;
+            }
+            if f1.is_duplicate(f2)? {
+                group.count += 1;
+                group.paths.push(f2);
+                *visited
+                    .get_mut(j)
+                    .expect("Visited vector inner loop out of bounds!") = true;
+            }
+        }
+        if group.count > 1 {
+            groups.push(group);
+        }
+    }
+    Ok(groups)
 }
