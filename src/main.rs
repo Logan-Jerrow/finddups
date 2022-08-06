@@ -14,7 +14,7 @@ struct Group<'a> {
     paths: Vec<&'a Info>,
 }
 
-fn main() -> std::io::Result<()> {
+fn main() -> anyhow::Result<()> {
     let args = env::args().skip(1);
 
     let (mut files, directories): (Vec<_>, Vec<_>) = args

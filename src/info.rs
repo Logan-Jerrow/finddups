@@ -35,19 +35,22 @@ impl Info {
         self.is_file() || self.is_dir()
     }
 
-    pub fn is_duplicate(&self, other: &Self) -> Result<bool, io::Error> {
+    pub fn is_duplicate(&self, other: &Self) -> anyhow::Result<bool> {
+        // Compare file sizes.
         if self.size != other.size {
             return Ok(false);
         }
 
         let file1 = File::open(&self.path)?;
-        let file2 = File::open(&other.path)?;
-
         let file1 = BufReader::new(file1);
+
+        let file2 = File::open(&other.path)?;
         let file2 = BufReader::new(file2);
 
+        // byte by byte comparasion.
         for (b1, b2) in file1.bytes().zip(file2.bytes()) {
-            if b1.unwrap() != b2.unwrap() {
+            // TODO: Replace unwrap.
+            if b1? != b2? {
                 return Ok(false);
             }
         }
