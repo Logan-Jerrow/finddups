@@ -1,4 +1,4 @@
-1. Write a C program finddups that will scan a set of files looking for
+Write a C program finddups that will scan a set of files looking for
 duplicates it will organize into groups. The files are specified on the command line:
 
     $ ./finddups fileOrDirectory*

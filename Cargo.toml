@@ -3,13 +3,10 @@ name = "finddups"
 version = "0.1.0"
 edition = "2021"
 
-license = "MIT OR Apache-2.0"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 anyhow = "1.0.58"
 walkdir = "2.3.2"
-
-[profile.release]
-lto=true
