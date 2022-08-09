@@ -1,8 +1,7 @@
 use std::{
     fs::File,
     io::{prelude::*, BufReader},
-    os::unix::prelude::MetadataExt,
-    path::{Path, PathBuf},
+    path::PathBuf,
 };
 
 #[derive(Debug, PartialEq)]
@@ -23,18 +22,6 @@ pub struct FileData {
 impl FileData {
     pub fn new(path: PathBuf, size: u64, kind: FileKind) -> Self {
         Self { path, size, kind }
-    }
-
-    pub fn is_file(&self) -> bool {
-        self.kind == FileKind::File
-    }
-
-    pub fn is_dir(&self) -> bool {
-        self.kind == FileKind::Directory
-    }
-
-    pub fn is_file_or_dir(&self) -> bool {
-        self.is_file() || self.is_dir()
     }
 
     pub fn is_duplicate(&self, other: &Self) -> anyhow::Result<bool> {
@@ -58,30 +45,13 @@ impl FileData {
 
         Ok(true)
     }
-
-    pub fn from_direntry(entry: walkdir::DirEntry) -> anyhow::Result<Self> {
-        let meta = entry.metadata()?;
+    pub fn from_metadata(path: impl Into<PathBuf>, meta: std::fs::Metadata) -> Self {
         let kind = match &meta {
             m if m.is_file() => FileKind::File,
             m if m.is_dir() => FileKind::Directory,
             m if m.is_symlink() => FileKind::Link,
             _ => FileKind::Other,
         };
-        Ok(FileData::new(entry.into_path(), meta.size(), kind))
-    }
-
-    pub fn from_path<P>(path: P) -> anyhow::Result<Self>
-    where
-        P: AsRef<Path>,
-    {
-        let meta = std::fs::symlink_metadata(&path)?;
-
-        let fk = match &meta {
-            m if m.is_file() => FileKind::File,
-            m if m.is_dir() => FileKind::Directory,
-            m if m.is_symlink() => FileKind::Link,
-            _ => FileKind::Other,
-        };
-        Ok(FileData::new(path.as_ref().to_path_buf(), meta.size(), fk))
+        FileData::new(path.into(), meta.len(), kind)
     }
 }

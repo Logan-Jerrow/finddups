@@ -1,11 +1,5 @@
-use std::{
-    env,
-    fs::{self, DirEntry},
-    io,
-    path::Path,
-};
-
 use file_data::{FileData, FileKind};
+use std::{env, path::Path};
 use walkdir::WalkDir;
 
 mod file_data;
@@ -31,10 +25,20 @@ impl Default for Group {
     }
 }
 
+fn get_args() -> Vec<String> {
+    let mut args: Vec<String> = env::args().skip(1).collect();
+    if args.is_empty() {
+        // If given no args then add the local folder "."
+        args.push(".".to_string());
+    }
+    args
+}
+
 fn main() -> anyhow::Result<()> {
-    let args = env::args().skip(1);
+    let args = get_args();
 
     let files = get_files(args);
+    assert!(files.iter().all(|f| f.path.is_file()));
 
     let (groups, errors) = get_groups(files);
 
@@ -45,63 +49,46 @@ fn main() -> anyhow::Result<()> {
     }
 
     if !errors.is_empty() {
-        eprintln!("\n\nErrors: {:#?}", errors);
+        eprintln!("\n\nErrors!!!: {:#?}", errors);
     }
 
     Ok(())
 }
 
-/// One possible implementation of walking a directory only visiting files
-fn visit_dirs<C>(dir: &Path, cb: &mut C) -> io::Result<()>
-where
-    C: FnMut(&DirEntry),
-{
-    if !dir.is_dir() {
-        return Ok(());
-    }
-
-    for entry in fs::read_dir(dir)?.filter_map(Result::ok) {
-        if let Ok(ft) = entry.file_type() {
-            if ft.is_dir() {
-                visit_dirs(&entry.path(), cb)?;
-            } else if ft.is_file() {
-                cb(&entry);
+fn transverse(dir: &Path, files: &mut Vec<FileData>) {
+    WalkDir::new(dir)
+        .into_iter()
+        .filter_map(Result::ok)
+        .filter(|e| e.file_type().is_file())
+        .for_each(|entry| match entry.metadata() {
+            Ok(meta) => {
+                let fd = FileData::from_metadata(entry.into_path(), meta);
+                files.push(fd);
             }
-        }
-    }
-    Ok(())
+            Err(e) => {
+                // TODO: Return a list of errors?
+                eprintln!("transverse cannot read metadata. {e}");
+            }
+        });
 }
 
-fn transverse<C>(dir: &Path, files: &mut Vec<FileData>) -> anyhow::Result<()> {
-    for entry in WalkDir::new(dir).into_iter().filter_map(Result::ok) {
-        let fd = FileData::from_direntry(entry)?;
-        files.push(fd);
-    }
-    Ok(())
-}
-
-fn get_files(args: impl Iterator<Item = String>) -> Vec<FileData> {
+fn get_files(args: Vec<String>) -> Vec<FileData> {
     // TODO: Add files from local env if no args given.
     // List files and directories from working directory.
     let (mut files, directories): (Vec<_>, Vec<_>) = args
-        .filter_map(|name| match FileData::from_path(name) {
-            Ok(info) if info.is_file_or_dir() => Some(info),
-            Ok(_) => None,
-            Err(_) => None,
+        .into_iter()
+        .filter_map(|name| match std::fs::symlink_metadata(&name) {
+            Ok(meta) => Some(FileData::from_metadata(name, meta)),
+            Err(e) => {
+                eprintln!("symlink metadata failed on path: \"{name}\". {e}");
+                None
+            }
         })
-        .partition(|info| info.kind == FileKind::File);
+        .partition(|fd| fd.kind == FileKind::File);
 
     // Transverse directories grabbing every file path.
     for f in directories.iter() {
-        let visit = visit_dirs(&f.path, &mut |entry| {
-            if let Ok(info) = FileData::from_path(entry.path()) {
-                files.push(info);
-            };
-        });
-
-        if visit.is_err() {
-            eprintln!("Error visiting directories: {}", visit.unwrap_err());
-        }
+        transverse(&f.path, &mut files);
     }
 
     files
