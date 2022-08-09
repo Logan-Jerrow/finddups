@@ -1,7 +1,9 @@
-Write a C program finddups that will scan a set of files looking for
+# finddups
+
+Write a Rust program "finddups" that will scan a set of files looking for
 duplicates it will organize into groups. The files are specified on the command line:
 
-    $ ./finddups fileOrDirectory*
+    ./finddups fileOrDirectory*
 
 In addition, any directories specified on the command line are traversed recursively,
 looking for more regular files (and directories) to compare, all the way down the direc-
@@ -21,7 +23,7 @@ additional file, shemp, that differs. curly and shemp reside in the current dire
 while moe and larry reside in a subdirectory of the current directory named brothers.
 The command
 
-    $ ./finddups brothers curly shemp
+     ./finddups brothers curly shemp
 
 will output a single group of the three identical files:
 
