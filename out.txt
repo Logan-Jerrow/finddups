@@ -1,0 +1,4051 @@
+
+[
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/gpm354ojxyyk2ix.o",
+                size: 59064,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-c84d5e22eaf5504f/test-bin-finddups.json",
+                size: 402,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.vscode/tasks.json",
+                size: 387,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/CACHEDIR.TAG",
+                size: 177,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/build/anyhow-7e9ff9d401956f71/build_script_build-7e9ff9d401956f71.d",
+                size: 468,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/build/anyhow-2be445724ae0a4a6/out/probe.rs",
+                size: 653,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/build/anyhow-2be445724ae0a4a6/root-output",
+                size: 73,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/finddups-5ea13f1eed189098",
+                size: 4290160,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/finddups-64531d76a805f1da.d",
+                size: 267,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/finddups-d59d27d4b8f96fbe.d",
+                size: 272,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/anyhow-b7587327d27b364c.d",
+                size: 3041,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/finddups-f6e6e24bc0030c55.d",
+                size: 252,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/finddups-14d0e5ae7d86272c.d",
+                size: 243,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/finddups-5ea13f1eed189098.d",
+                size: 205,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/libanyhow-b7587327d27b364c.rmeta",
+                size: 424251,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/libanyhow-7d8f65bd2a2f70e7.rmeta",
+                size: 488899,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./pa_handout.txt",
+                size: 2707,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/finddups-c0be73da4a33dbaa.d",
+                size: 252,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/libanyhow-7d8f65bd2a2f70e7.rlib",
+                size: 1801922,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/anyhow-7d8f65bd2a2f70e7.d",
+                size: 4080,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/finddups-da71d30ebb44b11b.d",
+                size: 272,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/finddups-8d1f4167844329a4.d",
+                size: 267,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/finddups.d",
+                size: 133,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91hhv10-1iesmty-working/dep-graph.bin",
+                size: 733697,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./src/main.rs",
+                size: 4291,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./src/file_data.rs",
+                size: 2106,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.gitignore",
+                size: 8,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91hhv10-1iesmty-working/query-cache.bin",
+                size: 318595,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91hhv10-1iesmty-working/dep-graph.part.bin",
+                size: 515870,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91inr6c-19usnw-13843m8rzzxoz/dep-graph.bin",
+                size: 746345,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91inr6c-19usnw-13843m8rzzxoz/query-cache.bin",
+                size: 323747,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2glgfeukpxuwhdm4.o",
+                size: 105768,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/5e6pmclt1mg4awx0.o",
+                size: 3144,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1ezl5hnkx0rjet7w.o",
+                size: 21688,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3zxku9gf1iuuprdk.o",
+                size: 11024,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/27e7frh8th4m9txz.o",
+                size: 31752,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/bbdixtzryxdxj85.o",
+                size: 88624,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3a34xxfifjshv172.o",
+                size: 5664,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/s9gjxlwsiolri9o.o",
+                size: 10752,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/8pu5bergbm56jge.o",
+                size: 19640,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/20un3psfjb29gc06.o",
+                size: 31840,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2icweqwzkhrjpj40.o",
+                size: 3760,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/dep-graph.bin",
+                size: 1739501,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4h0nmce461jha0tb.o",
+                size: 15000,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1woh302pszjc5g2d.o",
+                size: 9680,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4zijs0hxcoj8ciim.o",
+                size: 11216,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3unf581ui6x6z1pu.o",
+                size: 10024,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4zrbd0vvplkkbfjy.o",
+                size: 6792,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1ck4ck19ddmwiar7.o",
+                size: 6568,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3oaas670foiyoklb.o",
+                size: 33728,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/29g2pvic6cdbkzu4.o",
+                size: 12336,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2ibmyj7zzfi9etqz.o",
+                size: 4240,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3nkhgp2rcvyjbiee.o",
+                size: 19256,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4c73ksfo83kje98u.o",
+                size: 81456,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/jch1l9omzr27qoz.o",
+                size: 6392,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4ojrph92thizurat.o",
+                size: 19248,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1bc1akrefpokuek8.o",
+                size: 5016,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/pleqz5kvss43e1h.o",
+                size: 3568,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2t9qitonc45280gw.o",
+                size: 9632,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4j1bh0xma2g3l9nr.o",
+                size: 13568,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3rkerf356r3ywoqq.o",
+                size: 8232,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2x12cgm5vn7e6mc9.o",
+                size: 46144,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/17tawr07aohmzqjj.o",
+                size: 17952,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/f0c02v9n10b04s.o",
+                size: 10288,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/fw20qbwfbqs831j.o",
+                size: 17696,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2pll1y3x4pc510fj.o",
+                size: 5968,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/54z3qyezwjrv31cy.o",
+                size: 12576,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3t0sempe9hqtqkav.o",
+                size: 12080,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/vsgyiy7sqogjtt5.o",
+                size: 22632,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/work-products.bin",
+                size: 4237,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1khm3coy7be23thx.o",
+                size: 17304,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/obgp9k4pvjm9oa0.o",
+                size: 24936,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/10pwf2f2dpyr26x3.o",
+                size: 5600,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/34mzan17so4o0xny.o",
+                size: 34776,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1gdq4rokwspukexg.o",
+                size: 27032,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/query-cache.bin",
+                size: 577148,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/24gitguzpeeft2b5.o",
+                size: 20776,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/57sy3j15oi3burwl.o",
+                size: 3656,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3b7gc7xjuqp4f127.o",
+                size: 7616,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2kiemm0du2zs90wd.o",
+                size: 10064,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4i0kifhs24rrq1ud.o",
+                size: 19616,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/59dczqjxgph10pu.o",
+                size: 114704,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3apwok8ogdd6gyqc.o",
+                size: 5584,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4w0du5x47kekl6vv.o",
+                size: 7000,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3oiwm1iv99ifh0zb.o",
+                size: 3576,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3wnqt9gm1lkc7jmk.o",
+                size: 11128,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/c9hsuctiu3vnyo3.o",
+                size: 3368,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/23vs134103777585.o",
+                size: 5784,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/756yyvlzu8qw4ld.o",
+                size: 7744,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/t71ivnsee8sr139.o",
+                size: 4216,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1kivw7iihphuhb86.o",
+                size: 23872,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/p15blkkjpifhexe.o",
+                size: 4648,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1gvxx5f9fpz3clal.o",
+                size: 9144,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/15k2w4894heymd0j.o",
+                size: 7152,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/73c9xorc0293kof.o",
+                size: 3976,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3z70zua0dybpay34.o",
+                size: 6296,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/16lv5nokxi39q6x4.o",
+                size: 146584,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3sdy7ipfvdsg92kx.o",
+                size: 3920,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/417u4taiwrrwaqb0.o",
+                size: 16120,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/52n9u7mcjxif5k1t.o",
+                size: 14576,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4tflg1mzbs4w1e6a.o",
+                size: 4456,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2dyd90rh0wmi16b.o",
+                size: 3288,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1e2iem5fqi4upqgk.o",
+                size: 27008,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/mogscx473m89aar.o",
+                size: 8360,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/cns76t02xscjszb.o",
+                size: 3128,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4smo1ig35z4yvs17.o",
+                size: 12728,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4gma09fgy8xrunw7.o",
+                size: 5944,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/5btfmposr9r5mgsd.o",
+                size: 39032,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1fe7ej0yb4jw9m9r.o",
+                size: 6776,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/xreopmdq2kauunz.o",
+                size: 11552,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3o6vp87ahnbpuxm5.o",
+                size: 6640,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4tl6kxucj8l2srao.o",
+                size: 4576,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/28004scupea5itcp.o",
+                size: 6432,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4uiv89wb2vj1bqba.o",
+                size: 4512,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3graw8-1gyg6qb-working/dep-graph.bin",
+                size: 1043585,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/index",
+                size: 1014,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3graw8-1gyg6qb-working/query-cache.bin",
+                size: 321332,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3graw8-1gyg6qb-working/dep-graph.part.bin",
+                size: 683038,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3i3bge-1i8bded-ku4ljnnf55j7/dep-graph.bin",
+                size: 1038244,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3i3bge-1i8bded-ku4ljnnf55j7/query-cache.bin",
+                size: 320246,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-1f2if2ruest4w/s-gcd51prf27-1kmgykl-2g2xkutp3q0nk/dep-graph.bin",
+                size: 581022,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-1f2if2ruest4w/s-gcd51prf27-1kmgykl-2g2xkutp3q0nk/query-cache.bin",
+                size: 248968,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91hhwsx-167vy3n-working/dep-graph.bin",
+                size: 703977,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91hhwsx-167vy3n-working/query-cache.bin",
+                size: 310617,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91hhwsx-167vy3n-working/dep-graph.part.bin",
+                size: 499891,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91insoo-1ksuvms-1klrpuzhbbwpa/dep-graph.bin",
+                size: 716600,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91insoo-1ksuvms-1klrpuzhbbwpa/query-cache.bin",
+                size: 315766,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3i3bjl-1l8y9dk-2qw6xc3cdtaqo/dep-graph.bin",
+                size: 997585,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3i3bjl-1l8y9dk-2qw6xc3cdtaqo/query-cache.bin",
+                size: 310632,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3graw8-gl1jua-working/dep-graph.bin",
+                size: 1003070,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3graw8-gl1jua-working/query-cache.bin",
+                size: 311715,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3graw8-gl1jua-working/dep-graph.part.bin",
+                size: 659576,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/28lb14nermx68gtm.o",
+                size: 31360,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2epf7tcddy7nyio8.o",
+                size: 18624,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1ifbnf6xzu48jlek.o",
+                size: 75248,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3ny1wq5qepbb2tla.o",
+                size: 10008,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5b3a5z5gyfdaafyh.o",
+                size: 3664,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/ynveuoywb24bmiv.o",
+                size: 3032,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/18qz458za04npffh.o",
+                size: 23568,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/oi5jb78ixmpzt42.o",
+                size: 26528,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/6cbux4vf7rcoyu6.o",
+                size: 26848,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4u3m818wy1yr7bwy.o",
+                size: 6240,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/dep-graph.bin",
+                size: 1839066,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5dv1jqori9mh8wx2.o",
+                size: 8048,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/14d6ka0io31yi8ee.o",
+                size: 18232,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5gfbyxgyno8diclb.o",
+                size: 32264,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2dgdkr0t5bedrm8n.o",
+                size: 13400,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4tps5lvdmr0peodu.o",
+                size: 16016,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5cqohy2nedqcrkfr.o",
+                size: 3152,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/10jlu9leoy2gf90o.o",
+                size: 35624,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4aywyvlcg8tggg9y.o",
+                size: 63280,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/206gsw0txkjatyur.o",
+                size: 69080,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/45txbpxesb8u5fl4.o",
+                size: 180696,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2wy8bzh7r6hjblnw.o",
+                size: 11920,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/514o7r0ltud1afwq.o",
+                size: 6752,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/a9rj2aiiqgmli2n.o",
+                size: 23744,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2qwvlewgt26kb5re.o",
+                size: 24832,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3dg5nr4gk36lge9i.o",
+                size: 20312,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1deiy0lgu1gr3vm0.o",
+                size: 5624,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2ctxtafp2w12rsy7.o",
+                size: 3400,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2ojbl1btvnz09s83.o",
+                size: 3792,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3u3ukgcqvvtwhn2o.o",
+                size: 12728,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4ot3yclyuighure2.o",
+                size: 10864,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/rcbicwaammotwf7.o",
+                size: 15952,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/rbq3c67tpny3m4h.o",
+                size: 22408,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/38p0m24gqd1z3ou9.o",
+                size: 28184,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4prye7jx5bq86m5s.o",
+                size: 11280,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4dupc4mnz5qi2cvq.o",
+                size: 25304,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/deps/finddups-0fd9376c6096dcd5.d",
+                size: 237,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.vscode/launch.json",
+                size: 1144,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/40h7u2qtou63fnzi.o",
+                size: 7112,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4nwmzjd9s2j37mlv.o",
+                size: 79792,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1merxkjb5c3k3ytv.o",
+                size: 3992,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/work-products.bin",
+                size: 4686,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/44sav6p67rt9t8e.o",
+                size: 13560,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/22if8gw0rsujco0m.o",
+                size: 41472,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/g60jok179bi6jb4.o",
+                size: 52032,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/88cxnmu4xi3ybjw.o",
+                size: 3816,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4aqq3x8v0ss861s4.o",
+                size: 5920,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/248fzpfycl3z7xk8.o",
+                size: 3368,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2rxf1gdly2i4peqh.o",
+                size: 36832,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/query-cache.bin",
+                size: 574354,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3tzcn53net4725v6.o",
+                size: 37040,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2hjyzjbe7ebhv6h2.o",
+                size: 29408,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3plv0uh44ubdkjw6.o",
+                size: 30912,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4jrqcrs8spsbq9qj.o",
+                size: 11008,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2098mnhpgkumoq4x.o",
+                size: 4520,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4rndlzndn53qxqin.o",
+                size: 6784,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/51ext4qehwk8f5ts.o",
+                size: 7584,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/13y5b4wuru5qnum7.o",
+                size: 66560,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2krex8quut181nbg.o",
+                size: 177136,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3w4wbkdp9rs175vw.o",
+                size: 35416,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4szfteggq7w49z2a.o",
+                size: 3888,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3b8j8i0w6mm95zj8.o",
+                size: 28080,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4yf4rs56z4ohw7cv.o",
+                size: 14864,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5bldw24n6xzv8gm6.o",
+                size: 13504,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1xsa8iyzrlfnqscq.o",
+                size: 52952,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1t8tc5rolz58gicd.o",
+                size: 8912,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/veq0xfkmlmyap0u.o",
+                size: 12600,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4wgc926w8414q7x6.o",
+                size: 9384,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2cgn1088qujq2g89.o",
+                size: 26448,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/34v9fv019unekbs7.o",
+                size: 35472,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1ecvmffqy247xcx5.o",
+                size: 6904,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/252xk0wtlmts9s1w.o",
+                size: 63336,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2cffziiuxl0u8w8l.o",
+                size: 6904,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/21hnnwda8sou4dwj.o",
+                size: 29976,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/22iw87mqraeu086s.o",
+                size: 4224,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/zp98sapuu41x73u.o",
+                size: 11960,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4r2mm3gbe91z5i8u.o",
+                size: 15744,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2rnvd9voxp4fikro.o",
+                size: 11864,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2rrfo89wt1vkgvv8.o",
+                size: 20696,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1qc2gr43bcls22fp.o",
+                size: 5072,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2cjt6r8sfa6ple4a.o",
+                size: 57632,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/527a15l1q0m7vb2r.o",
+                size: 71632,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4ss7o86kaivf0ijf.o",
+                size: 6976,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2opdx4lqph7w408u.o",
+                size: 22216,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5grus1ij9dl29aj4.o",
+                size: 72808,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1nl5z54vjmba6ecx.o",
+                size: 4872,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/v9s9b63jrc80uvf.o",
+                size: 3616,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4zgp55d27jrj065c.o",
+                size: 14504,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-0fd9376c6096dcd5/dep-bin-finddups",
+                size: 45,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-0fd9376c6096dcd5/bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-0fd9376c6096dcd5/bin-finddups.json",
+                size: 396,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-c84d5e22eaf5504f/test-bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1y00f461b048qxzf.o",
+                size: 8984,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-5ea13f1eed189098/dep-bin-finddups",
+                size: 24,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-5ea13f1eed189098/bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-5ea13f1eed189098/output-bin-finddups",
+                size: 1529,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-5ea13f1eed189098/bin-finddups.json",
+                size: 338,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/HEAD",
+                size: 23,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-da71d30ebb44b11b/bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-da71d30ebb44b11b/bin-finddups.json",
+                size: 338,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/config",
+                size: 92,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-7e9ff9d401956f71/build-script-build-script-build",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-7e9ff9d401956f71/build-script-build-script-build.json",
+                size: 378,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-14d0e5ae7d86272c/dep-bin-finddups",
+                size: 45,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-14d0e5ae7d86272c/bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-14d0e5ae7d86272c/bin-finddups.json",
+                size: 397,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-c0be73da4a33dbaa/test-bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-c0be73da4a33dbaa/test-bin-finddups.json",
+                size: 344,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-64531d76a805f1da/test-bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-64531d76a805f1da/test-bin-finddups.json",
+                size: 402,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/description",
+                size: 73,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-8d1f4167844329a4/bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-8d1f4167844329a4/bin-finddups.json",
+                size: 397,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-7d8f65bd2a2f70e7/lib-anyhow.json",
+                size: 428,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-7d8f65bd2a2f70e7/lib-anyhow",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-5b404ab7b1f47c43/test-bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-5b404ab7b1f47c43/test-bin-finddups.json",
+                size: 344,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-d59d27d4b8f96fbe/test-bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-d59d27d4b8f96fbe/test-bin-finddups.json",
+                size: 343,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-430fa4eae7ed50cc/bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-430fa4eae7ed50cc/bin-finddups.json",
+                size: 338,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-b7587327d27b364c/lib-anyhow.json",
+                size: 427,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-b7587327d27b364c/lib-anyhow",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-b6342977faa8b9b0/test-bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-b6342977faa8b9b0/test-bin-finddups.json",
+                size: 343,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-2be445724ae0a4a6/run-build-script-build-script-build.json",
+                size: 249,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-2be445724ae0a4a6/run-build-script-build-script-build",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-f6e6e24bc0030c55/bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-f6e6e24bc0030c55/bin-finddups.json",
+                size: 339,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-7b588ac94871acf2/bin-finddups",
+                size: 16,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-7b588ac94871acf2/bin-finddups.json",
+                size: 339,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./target/.rustc_info.json",
+                size: 1153,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./Cargo.toml",
+                size: 254,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./Cargo.lock",
+                size: 373,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/fsmonitor-watchman.sample",
+                size: 3079,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./pa_handout.pdf",
+                size: 102266,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/update.sample",
+                size: 3610,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/refs/heads/master",
+                size: 41,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/info/exclude",
+                size: 240,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/b9/904175f3a4867563a13abdd886f06ff440479a",
+                size: 138,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/6e/9c715f9d88c90d587a64f894cb853519803a2a",
+                size: 3009,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/22/ce3750c62596b8bb0c557632b88c4150f1f862",
+                size: 101458,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/c2/fb5841f934e3bbf19c18fd541a30c4c76f5504",
+                size: 80,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/38/1c67122355c7a14ce7610b36b6078ad23f90b7",
+                size: 86,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/84/ed08caddc24c814dc9ed9dcf8080bf415687ef",
+                size: 212,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/19/5acdcbe5eef943fd412d2787bd63adec5d017a",
+                size: 287,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/e0/7f10bd3ac8c17350387f27a7a128ff5a68a419",
+                size: 287,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/34/0a666f613b6b4801b1a1ca2e6a27b8639cdd15",
+                size: 1965,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/13/a5d5c67a69328b1578f65d81621a4592e56765",
+                size: 81,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/ea/8c4bf7f35f6f77f75d92ad8ce8349f6e81ddba",
+                size: 23,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/72/c8739c5ca0ef5a9e5cebede6b5853efbf536b5",
+                size: 287,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/85/8650cda7fd3ebbd38989a91a1e523a030e018b",
+                size: 1202,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/50/44591eb33dfcbde531aa6fa3525616be33dfbd",
+                size: 1349,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/74/741705059c949353e244fe5dad07a41cdd4542",
+                size: 809,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/ae/db143bdf906ac47ee8b58e25864ca34a2206c9",
+                size: 276,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/91/b75b875024b1f80713506ce0e5a246f485f4d6",
+                size: 239,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/04/fba8b1687572df7d29fa6e944b832435e12be6",
+                size: 363,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/11/cc6f295bf988ca5e62a9f429d884200b174ce8",
+                size: 51,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/7a/2ebf2bf5aa5f6298cc228fafc92b3677c74b2b",
+                size: 286,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/57/2406400628c539b9cfed25a0a5df937cde9327",
+                size: 51,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/f0/8fb34294811ae0255ce7f72a3e0152f7cca29f",
+                size: 363,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/d8/e44041ad5f4bef3a17f18b2993c68da1f95cb5",
+                size: 223,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/3d/aee8e6845878a203c8c304930b8c0c36ce6e7b",
+                size: 198,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/77/16bb546cfceba68b0dc585c4a4acc72c4906a1",
+                size: 368,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/36/cc4d7e86c7c36bdcda553357f56230228c5ac1",
+                size: 403,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/40/f9857c63877be8e64e3688c09da8c58e5a7d51",
+                size: 86,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/fd/34a34745f7358dcc1b3a831a4a0155a99b75bf",
+                size: 81,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/61/e5af3c2d673ccfd86c4f0458694c8834a2117e",
+                size: 286,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/61/fb282fe299f62b0fec43b91438f5ffa19e82d5",
+                size: 362,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/ce/7e4183f2576b8fb2ff2cc6314a09e0f4fbf77d",
+                size: 1293,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/2a/d4be0f32a7a05e3551d425ac6b50069e5898c1",
+                size: 315,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/ed/5397656b84766454324dbc927a7506a7814dd1",
+                size: 287,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/f2/295d8333d50e2276057d65fc9466ebe8658bb7",
+                size: 81,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/df/8e20bcb19625b14adf7584fa01caf3c228c0da",
+                size: 1046,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/7f/606e7c4da6450964066712d10135b167bb2638",
+                size: 1041,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/d6/cc3fcd396e07577ba78fdd78740154bd70efc8",
+                size: 355,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/30/ea2a95c8f27456ab42c9f6a2485a2c9ce28742",
+                size: 178,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/3e/01b83f2d35aa6c0ebd1ed95d740740ef5ab7f9",
+                size: 273,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/4c/54292db480d5c50023bae7eb5dd4c0b62e3f80",
+                size: 223,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/cc/74c9b30ead1a63dc3193a5e9414a594480cd05",
+                size: 223,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/20/37e9bb1358057039cbaef86c337c5a7e81a034",
+                size: 1150,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/7d/c02850bae4127c925d503ca21dfced11fc765c",
+                size: 351,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/c5/7eff55ebc0c54973903af5f72bac72762cf4f4",
+                size: 28,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/objects/49/e6ed4571a8f2a581c4bab85178ce1f2c73b898",
+                size: 985,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/COMMIT_EDITMSG",
+                size: 92,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/pre-rebase.sample",
+                size: 4898,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/post-update.sample",
+                size: 189,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/commit-msg.sample",
+                size: 896,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/prepare-commit-msg.sample",
+                size: 1492,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/pre-commit.sample",
+                size: 1638,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/applypatch-msg.sample",
+                size: 478,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/pre-merge-commit.sample",
+                size: 416,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/pre-receive.sample",
+                size: 544,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/pre-push.sample",
+                size: 1348,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 1,
+        paths: [
+            FileData {
+                path: "./.git/hooks/pre-applypatch.sample",
+                size: 424,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 2,
+        paths: [
+            FileData {
+                path: "./.git/logs/HEAD",
+                size: 1412,
+                kind: File,
+            },
+            FileData {
+                path: "./.git/logs/refs/heads/master",
+                size: 1412,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 2,
+        paths: [
+            FileData {
+                path: "./test.txt",
+                size: 12,
+                kind: File,
+            },
+            FileData {
+                path: "./test - Copy.txt",
+                size: 12,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 2,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-8d1f4167844329a4/dep-bin-finddups",
+                size: 65,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-64531d76a805f1da/dep-test-bin-finddups",
+                size: 65,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 2,
+        paths: [
+            FileData {
+                path: "./target/debug/finddups",
+                size: 5326872,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/deps/finddups-0fd9376c6096dcd5",
+                size: 5326872,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 2,
+        paths: [
+            FileData {
+                path: "./target/debug/build/anyhow-7e9ff9d401956f71/build-script-build",
+                size: 4397464,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/build/anyhow-7e9ff9d401956f71/build_script_build-7e9ff9d401956f71",
+                size: 4397464,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 3,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-b7587327d27b364c/dep-lib-anyhow",
+                size: 8,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-7d8f65bd2a2f70e7/dep-lib-anyhow",
+                size: 8,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-7e9ff9d401956f71/dep-build-script-build-script-build",
+                size: 8,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 4,
+        paths: [
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-f6e6e24bc0030c55/dep-bin-finddups",
+                size: 60,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-da71d30ebb44b11b/dep-bin-finddups",
+                size: 60,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-d59d27d4b8f96fbe/dep-test-bin-finddups",
+                size: 60,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-c0be73da4a33dbaa/dep-test-bin-finddups",
+                size: 60,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 4,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3graw8-gl1jua-working/work-products.bin",
+                size: 37,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3graw8-1gyg6qb-working/work-products.bin",
+                size: 37,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3i3bge-1i8bded-ku4ljnnf55j7/work-products.bin",
+                size: 37,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3i3bjl-1l8y9dk-2qw6xc3cdtaqo/work-products.bin",
+                size: 37,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 5,
+        paths: [
+            FileData {
+                path: "./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91hhwsx-167vy3n-working/work-products.bin",
+                size: 37,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91hhv10-1iesmty-working/work-products.bin",
+                size: 37,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91inr6c-19usnw-13843m8rzzxoz/work-products.bin",
+                size: 37,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91insoo-1ksuvms-1klrpuzhbbwpa/work-products.bin",
+                size: 37,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-1f2if2ruest4w/s-gcd51prf27-1kmgykl-2g2xkutp3q0nk/work-products.bin",
+                size: 37,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 18,
+        paths: [
+            FileData {
+                path: "./target/debug/build/anyhow-2be445724ae0a4a6/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-b7587327d27b364c/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-7d8f65bd2a2f70e7/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/anyhow-7e9ff9d401956f71/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-7b588ac94871acf2/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-f6e6e24bc0030c55/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-b6342977faa8b9b0/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-430fa4eae7ed50cc/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-d59d27d4b8f96fbe/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-5b404ab7b1f47c43/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-8d1f4167844329a4/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-64531d76a805f1da/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-c0be73da4a33dbaa/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-14d0e5ae7d86272c/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-da71d30ebb44b11b/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-5ea13f1eed189098/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-c84d5e22eaf5504f/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.fingerprint/finddups-0fd9376c6096dcd5/invoked.timestamp",
+                size: 48,
+                kind: File,
+            },
+        ],
+    },
+    Group {
+        count: 22,
+        paths: [
+            FileData {
+                path: "./out.txt",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/.cargo-lock",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/build/anyhow-2be445724ae0a4a6/stderr",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/build/anyhow-2be445724ae0a4a6/output",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/deps/libfinddups-c0be73da4a33dbaa.rmeta",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/deps/libfinddups-da71d30ebb44b11b.rmeta",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/deps/libfinddups-14d0e5ae7d86272c.rmeta",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/deps/libfinddups-f6e6e24bc0030c55.rmeta",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/deps/libfinddups-64531d76a805f1da.rmeta",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/deps/libfinddups-d59d27d4b8f96fbe.rmeta",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/deps/libfinddups-8d1f4167844329a4.rmeta",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3graw8-gl1jua.lock",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r.lock",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91inr6c-19usnw.lock",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91hhwsx-167vy3n.lock",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h.lock",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91hhv10-1iesmty.lock",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3graw8-1gyg6qb.lock",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3i3bge-1i8bded.lock",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-1f2if2ruest4w/s-gcd51prf27-1kmgykl.lock",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91insoo-1ksuvms.lock",
+                size: 0,
+                kind: File,
+            },
+            FileData {
+                path: "./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3i3bjl-1l8y9dk.lock",
+                size: 0,
+                kind: File,
+            },
+        ],
+    },
+]
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/gpm354ojxyyk2ix.o
+1 1 ./target/debug/.fingerprint/finddups-c84d5e22eaf5504f/test-bin-finddups.json
+1 1 ./.vscode/tasks.json
+1 1 ./target/CACHEDIR.TAG
+1 1 ./target/debug/build/anyhow-7e9ff9d401956f71/build_script_build-7e9ff9d401956f71.d
+1 1 ./target/debug/build/anyhow-2be445724ae0a4a6/out/probe.rs
+1 1 ./target/debug/build/anyhow-2be445724ae0a4a6/root-output
+1 1 ./target/debug/deps/finddups-5ea13f1eed189098
+1 1 ./target/debug/deps/finddups-64531d76a805f1da.d
+1 1 ./target/debug/deps/finddups-d59d27d4b8f96fbe.d
+1 1 ./target/debug/deps/anyhow-b7587327d27b364c.d
+1 1 ./target/debug/deps/finddups-f6e6e24bc0030c55.d
+1 1 ./target/debug/deps/finddups-14d0e5ae7d86272c.d
+1 1 ./target/debug/deps/finddups-5ea13f1eed189098.d
+1 1 ./target/debug/deps/libanyhow-b7587327d27b364c.rmeta
+1 1 ./target/debug/deps/libanyhow-7d8f65bd2a2f70e7.rmeta
+1 1 ./pa_handout.txt
+1 1 ./target/debug/deps/finddups-c0be73da4a33dbaa.d
+1 1 ./target/debug/deps/libanyhow-7d8f65bd2a2f70e7.rlib
+1 1 ./target/debug/deps/anyhow-7d8f65bd2a2f70e7.d
+1 1 ./target/debug/deps/finddups-da71d30ebb44b11b.d
+1 1 ./target/debug/deps/finddups-8d1f4167844329a4.d
+1 1 ./target/debug/finddups.d
+1 1 ./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91hhv10-1iesmty-working/dep-graph.bin
+1 1 ./src/main.rs
+1 1 ./src/file_data.rs
+1 1 ./.gitignore
+1 1 ./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91hhv10-1iesmty-working/query-cache.bin
+1 1 ./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91hhv10-1iesmty-working/dep-graph.part.bin
+1 1 ./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91inr6c-19usnw-13843m8rzzxoz/dep-graph.bin
+1 1 ./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91inr6c-19usnw-13843m8rzzxoz/query-cache.bin
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2glgfeukpxuwhdm4.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/5e6pmclt1mg4awx0.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1ezl5hnkx0rjet7w.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3zxku9gf1iuuprdk.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/27e7frh8th4m9txz.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/bbdixtzryxdxj85.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3a34xxfifjshv172.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/s9gjxlwsiolri9o.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/8pu5bergbm56jge.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/20un3psfjb29gc06.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2icweqwzkhrjpj40.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/dep-graph.bin
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4h0nmce461jha0tb.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1woh302pszjc5g2d.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4zijs0hxcoj8ciim.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3unf581ui6x6z1pu.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4zrbd0vvplkkbfjy.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1ck4ck19ddmwiar7.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3oaas670foiyoklb.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/29g2pvic6cdbkzu4.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2ibmyj7zzfi9etqz.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3nkhgp2rcvyjbiee.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4c73ksfo83kje98u.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/jch1l9omzr27qoz.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4ojrph92thizurat.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1bc1akrefpokuek8.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/pleqz5kvss43e1h.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2t9qitonc45280gw.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4j1bh0xma2g3l9nr.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3rkerf356r3ywoqq.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2x12cgm5vn7e6mc9.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/17tawr07aohmzqjj.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/f0c02v9n10b04s.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/fw20qbwfbqs831j.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2pll1y3x4pc510fj.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/54z3qyezwjrv31cy.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3t0sempe9hqtqkav.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/vsgyiy7sqogjtt5.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/work-products.bin
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1khm3coy7be23thx.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/obgp9k4pvjm9oa0.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/10pwf2f2dpyr26x3.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/34mzan17so4o0xny.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1gdq4rokwspukexg.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/query-cache.bin
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/24gitguzpeeft2b5.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/57sy3j15oi3burwl.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3b7gc7xjuqp4f127.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2kiemm0du2zs90wd.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4i0kifhs24rrq1ud.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/59dczqjxgph10pu.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3apwok8ogdd6gyqc.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4w0du5x47kekl6vv.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3oiwm1iv99ifh0zb.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3wnqt9gm1lkc7jmk.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/c9hsuctiu3vnyo3.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/23vs134103777585.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/756yyvlzu8qw4ld.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/t71ivnsee8sr139.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1kivw7iihphuhb86.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/p15blkkjpifhexe.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1gvxx5f9fpz3clal.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/15k2w4894heymd0j.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/73c9xorc0293kof.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3z70zua0dybpay34.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/16lv5nokxi39q6x4.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3sdy7ipfvdsg92kx.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/417u4taiwrrwaqb0.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/52n9u7mcjxif5k1t.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4tflg1mzbs4w1e6a.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/2dyd90rh0wmi16b.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1e2iem5fqi4upqgk.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/mogscx473m89aar.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/cns76t02xscjszb.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4smo1ig35z4yvs17.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4gma09fgy8xrunw7.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/5btfmposr9r5mgsd.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/1fe7ej0yb4jw9m9r.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/xreopmdq2kauunz.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/3o6vp87ahnbpuxm5.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4tl6kxucj8l2srao.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/28004scupea5itcp.o
+1 1 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r-3b4u7rabgr3lh/4uiv89wb2vj1bqba.o
+1 1 ./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3graw8-1gyg6qb-working/dep-graph.bin
+1 1 ./.git/index
+1 1 ./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3graw8-1gyg6qb-working/query-cache.bin
+1 1 ./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3graw8-1gyg6qb-working/dep-graph.part.bin
+1 1 ./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3i3bge-1i8bded-ku4ljnnf55j7/dep-graph.bin
+1 1 ./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3i3bge-1i8bded-ku4ljnnf55j7/query-cache.bin
+1 1 ./target/debug/incremental/finddups-1f2if2ruest4w/s-gcd51prf27-1kmgykl-2g2xkutp3q0nk/dep-graph.bin
+1 1 ./target/debug/incremental/finddups-1f2if2ruest4w/s-gcd51prf27-1kmgykl-2g2xkutp3q0nk/query-cache.bin
+1 1 ./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91hhwsx-167vy3n-working/dep-graph.bin
+1 1 ./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91hhwsx-167vy3n-working/query-cache.bin
+1 1 ./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91hhwsx-167vy3n-working/dep-graph.part.bin
+1 1 ./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91insoo-1ksuvms-1klrpuzhbbwpa/dep-graph.bin
+1 1 ./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91insoo-1ksuvms-1klrpuzhbbwpa/query-cache.bin
+1 1 ./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3i3bjl-1l8y9dk-2qw6xc3cdtaqo/dep-graph.bin
+1 1 ./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3i3bjl-1l8y9dk-2qw6xc3cdtaqo/query-cache.bin
+1 1 ./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3graw8-gl1jua-working/dep-graph.bin
+1 1 ./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3graw8-gl1jua-working/query-cache.bin
+1 1 ./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3graw8-gl1jua-working/dep-graph.part.bin
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/28lb14nermx68gtm.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2epf7tcddy7nyio8.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1ifbnf6xzu48jlek.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3ny1wq5qepbb2tla.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5b3a5z5gyfdaafyh.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/ynveuoywb24bmiv.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/18qz458za04npffh.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/oi5jb78ixmpzt42.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/6cbux4vf7rcoyu6.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4u3m818wy1yr7bwy.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/dep-graph.bin
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5dv1jqori9mh8wx2.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/14d6ka0io31yi8ee.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5gfbyxgyno8diclb.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2dgdkr0t5bedrm8n.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4tps5lvdmr0peodu.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5cqohy2nedqcrkfr.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/10jlu9leoy2gf90o.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4aywyvlcg8tggg9y.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/206gsw0txkjatyur.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/45txbpxesb8u5fl4.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2wy8bzh7r6hjblnw.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/514o7r0ltud1afwq.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/a9rj2aiiqgmli2n.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2qwvlewgt26kb5re.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3dg5nr4gk36lge9i.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1deiy0lgu1gr3vm0.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2ctxtafp2w12rsy7.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2ojbl1btvnz09s83.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3u3ukgcqvvtwhn2o.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4ot3yclyuighure2.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/rcbicwaammotwf7.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/rbq3c67tpny3m4h.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/38p0m24gqd1z3ou9.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4prye7jx5bq86m5s.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4dupc4mnz5qi2cvq.o
+1 1 ./target/debug/deps/finddups-0fd9376c6096dcd5.d
+1 1 ./.vscode/launch.json
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/40h7u2qtou63fnzi.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4nwmzjd9s2j37mlv.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1merxkjb5c3k3ytv.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/work-products.bin
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/44sav6p67rt9t8e.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/22if8gw0rsujco0m.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/g60jok179bi6jb4.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/88cxnmu4xi3ybjw.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4aqq3x8v0ss861s4.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/248fzpfycl3z7xk8.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2rxf1gdly2i4peqh.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/query-cache.bin
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3tzcn53net4725v6.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2hjyzjbe7ebhv6h2.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3plv0uh44ubdkjw6.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4jrqcrs8spsbq9qj.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2098mnhpgkumoq4x.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4rndlzndn53qxqin.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/51ext4qehwk8f5ts.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/13y5b4wuru5qnum7.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2krex8quut181nbg.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3w4wbkdp9rs175vw.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4szfteggq7w49z2a.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/3b8j8i0w6mm95zj8.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4yf4rs56z4ohw7cv.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5bldw24n6xzv8gm6.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1xsa8iyzrlfnqscq.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1t8tc5rolz58gicd.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/veq0xfkmlmyap0u.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4wgc926w8414q7x6.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2cgn1088qujq2g89.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/34v9fv019unekbs7.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1ecvmffqy247xcx5.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/252xk0wtlmts9s1w.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2cffziiuxl0u8w8l.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/21hnnwda8sou4dwj.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/22iw87mqraeu086s.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/zp98sapuu41x73u.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4r2mm3gbe91z5i8u.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2rnvd9voxp4fikro.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2rrfo89wt1vkgvv8.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1qc2gr43bcls22fp.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2cjt6r8sfa6ple4a.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/527a15l1q0m7vb2r.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4ss7o86kaivf0ijf.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/2opdx4lqph7w408u.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/5grus1ij9dl29aj4.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1nl5z54vjmba6ecx.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/v9s9b63jrc80uvf.o
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/4zgp55d27jrj065c.o
+1 1 ./target/debug/.fingerprint/finddups-0fd9376c6096dcd5/dep-bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-0fd9376c6096dcd5/bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-0fd9376c6096dcd5/bin-finddups.json
+1 1 ./target/debug/.fingerprint/finddups-c84d5e22eaf5504f/test-bin-finddups
+1 1 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h-cj40h5qz20xz/1y00f461b048qxzf.o
+1 1 ./target/debug/.fingerprint/finddups-5ea13f1eed189098/dep-bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-5ea13f1eed189098/bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-5ea13f1eed189098/output-bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-5ea13f1eed189098/bin-finddups.json
+1 1 ./.git/HEAD
+1 1 ./target/debug/.fingerprint/finddups-da71d30ebb44b11b/bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-da71d30ebb44b11b/bin-finddups.json
+1 1 ./.git/config
+1 1 ./target/debug/.fingerprint/anyhow-7e9ff9d401956f71/build-script-build-script-build
+1 1 ./target/debug/.fingerprint/anyhow-7e9ff9d401956f71/build-script-build-script-build.json
+1 1 ./target/debug/.fingerprint/finddups-14d0e5ae7d86272c/dep-bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-14d0e5ae7d86272c/bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-14d0e5ae7d86272c/bin-finddups.json
+1 1 ./target/debug/.fingerprint/finddups-c0be73da4a33dbaa/test-bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-c0be73da4a33dbaa/test-bin-finddups.json
+1 1 ./target/debug/.fingerprint/finddups-64531d76a805f1da/test-bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-64531d76a805f1da/test-bin-finddups.json
+1 1 ./.git/description
+1 1 ./target/debug/.fingerprint/finddups-8d1f4167844329a4/bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-8d1f4167844329a4/bin-finddups.json
+1 1 ./target/debug/.fingerprint/anyhow-7d8f65bd2a2f70e7/lib-anyhow.json
+1 1 ./target/debug/.fingerprint/anyhow-7d8f65bd2a2f70e7/lib-anyhow
+1 1 ./target/debug/.fingerprint/finddups-5b404ab7b1f47c43/test-bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-5b404ab7b1f47c43/test-bin-finddups.json
+1 1 ./target/debug/.fingerprint/finddups-d59d27d4b8f96fbe/test-bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-d59d27d4b8f96fbe/test-bin-finddups.json
+1 1 ./target/debug/.fingerprint/finddups-430fa4eae7ed50cc/bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-430fa4eae7ed50cc/bin-finddups.json
+1 1 ./target/debug/.fingerprint/anyhow-b7587327d27b364c/lib-anyhow.json
+1 1 ./target/debug/.fingerprint/anyhow-b7587327d27b364c/lib-anyhow
+1 1 ./target/debug/.fingerprint/finddups-b6342977faa8b9b0/test-bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-b6342977faa8b9b0/test-bin-finddups.json
+1 1 ./target/debug/.fingerprint/anyhow-2be445724ae0a4a6/run-build-script-build-script-build.json
+1 1 ./target/debug/.fingerprint/anyhow-2be445724ae0a4a6/run-build-script-build-script-build
+1 1 ./target/debug/.fingerprint/finddups-f6e6e24bc0030c55/bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-f6e6e24bc0030c55/bin-finddups.json
+1 1 ./target/debug/.fingerprint/finddups-7b588ac94871acf2/bin-finddups
+1 1 ./target/debug/.fingerprint/finddups-7b588ac94871acf2/bin-finddups.json
+1 1 ./target/.rustc_info.json
+1 1 ./Cargo.toml
+1 1 ./Cargo.lock
+1 1 ./.git/hooks/fsmonitor-watchman.sample
+1 1 ./pa_handout.pdf
+1 1 ./.git/hooks/update.sample
+1 1 ./.git/refs/heads/master
+1 1 ./.git/info/exclude
+1 1 ./.git/objects/b9/904175f3a4867563a13abdd886f06ff440479a
+1 1 ./.git/objects/6e/9c715f9d88c90d587a64f894cb853519803a2a
+1 1 ./.git/objects/22/ce3750c62596b8bb0c557632b88c4150f1f862
+1 1 ./.git/objects/c2/fb5841f934e3bbf19c18fd541a30c4c76f5504
+1 1 ./.git/objects/38/1c67122355c7a14ce7610b36b6078ad23f90b7
+1 1 ./.git/objects/84/ed08caddc24c814dc9ed9dcf8080bf415687ef
+1 1 ./.git/objects/19/5acdcbe5eef943fd412d2787bd63adec5d017a
+1 1 ./.git/objects/e0/7f10bd3ac8c17350387f27a7a128ff5a68a419
+1 1 ./.git/objects/34/0a666f613b6b4801b1a1ca2e6a27b8639cdd15
+1 1 ./.git/objects/13/a5d5c67a69328b1578f65d81621a4592e56765
+1 1 ./.git/objects/ea/8c4bf7f35f6f77f75d92ad8ce8349f6e81ddba
+1 1 ./.git/objects/72/c8739c5ca0ef5a9e5cebede6b5853efbf536b5
+1 1 ./.git/objects/85/8650cda7fd3ebbd38989a91a1e523a030e018b
+1 1 ./.git/objects/50/44591eb33dfcbde531aa6fa3525616be33dfbd
+1 1 ./.git/objects/74/741705059c949353e244fe5dad07a41cdd4542
+1 1 ./.git/objects/ae/db143bdf906ac47ee8b58e25864ca34a2206c9
+1 1 ./.git/objects/91/b75b875024b1f80713506ce0e5a246f485f4d6
+1 1 ./.git/objects/04/fba8b1687572df7d29fa6e944b832435e12be6
+1 1 ./.git/objects/11/cc6f295bf988ca5e62a9f429d884200b174ce8
+1 1 ./.git/objects/7a/2ebf2bf5aa5f6298cc228fafc92b3677c74b2b
+1 1 ./.git/objects/57/2406400628c539b9cfed25a0a5df937cde9327
+1 1 ./.git/objects/f0/8fb34294811ae0255ce7f72a3e0152f7cca29f
+1 1 ./.git/objects/d8/e44041ad5f4bef3a17f18b2993c68da1f95cb5
+1 1 ./.git/objects/3d/aee8e6845878a203c8c304930b8c0c36ce6e7b
+1 1 ./.git/objects/77/16bb546cfceba68b0dc585c4a4acc72c4906a1
+1 1 ./.git/objects/36/cc4d7e86c7c36bdcda553357f56230228c5ac1
+1 1 ./.git/objects/40/f9857c63877be8e64e3688c09da8c58e5a7d51
+1 1 ./.git/objects/fd/34a34745f7358dcc1b3a831a4a0155a99b75bf
+1 1 ./.git/objects/61/e5af3c2d673ccfd86c4f0458694c8834a2117e
+1 1 ./.git/objects/61/fb282fe299f62b0fec43b91438f5ffa19e82d5
+1 1 ./.git/objects/ce/7e4183f2576b8fb2ff2cc6314a09e0f4fbf77d
+1 1 ./.git/objects/2a/d4be0f32a7a05e3551d425ac6b50069e5898c1
+1 1 ./.git/objects/ed/5397656b84766454324dbc927a7506a7814dd1
+1 1 ./.git/objects/f2/295d8333d50e2276057d65fc9466ebe8658bb7
+1 1 ./.git/objects/df/8e20bcb19625b14adf7584fa01caf3c228c0da
+1 1 ./.git/objects/7f/606e7c4da6450964066712d10135b167bb2638
+1 1 ./.git/objects/d6/cc3fcd396e07577ba78fdd78740154bd70efc8
+1 1 ./.git/objects/30/ea2a95c8f27456ab42c9f6a2485a2c9ce28742
+1 1 ./.git/objects/3e/01b83f2d35aa6c0ebd1ed95d740740ef5ab7f9
+1 1 ./.git/objects/4c/54292db480d5c50023bae7eb5dd4c0b62e3f80
+1 1 ./.git/objects/cc/74c9b30ead1a63dc3193a5e9414a594480cd05
+1 1 ./.git/objects/20/37e9bb1358057039cbaef86c337c5a7e81a034
+1 1 ./.git/objects/7d/c02850bae4127c925d503ca21dfced11fc765c
+1 1 ./.git/objects/c5/7eff55ebc0c54973903af5f72bac72762cf4f4
+1 1 ./.git/objects/49/e6ed4571a8f2a581c4bab85178ce1f2c73b898
+1 1 ./.git/COMMIT_EDITMSG
+1 1 ./.git/hooks/pre-rebase.sample
+1 1 ./.git/hooks/post-update.sample
+1 1 ./.git/hooks/commit-msg.sample
+1 1 ./.git/hooks/prepare-commit-msg.sample
+1 1 ./.git/hooks/pre-commit.sample
+1 1 ./.git/hooks/applypatch-msg.sample
+1 1 ./.git/hooks/pre-merge-commit.sample
+1 1 ./.git/hooks/pre-receive.sample
+1 1 ./.git/hooks/pre-push.sample
+1 1 ./.git/hooks/pre-applypatch.sample
+2 1 ./.git/logs/HEAD
+2 2 ./.git/logs/refs/heads/master
+2 1 ./test.txt
+2 2 ./test - Copy.txt
+2 1 ./target/debug/.fingerprint/finddups-8d1f4167844329a4/dep-bin-finddups
+2 2 ./target/debug/.fingerprint/finddups-64531d76a805f1da/dep-test-bin-finddups
+2 1 ./target/debug/finddups
+2 2 ./target/debug/deps/finddups-0fd9376c6096dcd5
+2 1 ./target/debug/build/anyhow-7e9ff9d401956f71/build-script-build
+2 2 ./target/debug/build/anyhow-7e9ff9d401956f71/build_script_build-7e9ff9d401956f71
+3 1 ./target/debug/.fingerprint/anyhow-b7587327d27b364c/dep-lib-anyhow
+3 2 ./target/debug/.fingerprint/anyhow-7d8f65bd2a2f70e7/dep-lib-anyhow
+3 3 ./target/debug/.fingerprint/anyhow-7e9ff9d401956f71/dep-build-script-build-script-build
+4 1 ./target/debug/.fingerprint/finddups-f6e6e24bc0030c55/dep-bin-finddups
+4 2 ./target/debug/.fingerprint/finddups-da71d30ebb44b11b/dep-bin-finddups
+4 3 ./target/debug/.fingerprint/finddups-d59d27d4b8f96fbe/dep-test-bin-finddups
+4 4 ./target/debug/.fingerprint/finddups-c0be73da4a33dbaa/dep-test-bin-finddups
+4 1 ./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3graw8-gl1jua-working/work-products.bin
+4 2 ./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3graw8-1gyg6qb-working/work-products.bin
+4 3 ./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3i3bge-1i8bded-ku4ljnnf55j7/work-products.bin
+4 4 ./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3i3bjl-1l8y9dk-2qw6xc3cdtaqo/work-products.bin
+5 1 ./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91hhwsx-167vy3n-working/work-products.bin
+5 2 ./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91hhv10-1iesmty-working/work-products.bin
+5 3 ./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91inr6c-19usnw-13843m8rzzxoz/work-products.bin
+5 4 ./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91insoo-1ksuvms-1klrpuzhbbwpa/work-products.bin
+5 5 ./target/debug/incremental/finddups-1f2if2ruest4w/s-gcd51prf27-1kmgykl-2g2xkutp3q0nk/work-products.bin
+18 1 ./target/debug/build/anyhow-2be445724ae0a4a6/invoked.timestamp
+18 2 ./target/debug/.fingerprint/anyhow-b7587327d27b364c/invoked.timestamp
+18 3 ./target/debug/.fingerprint/anyhow-7d8f65bd2a2f70e7/invoked.timestamp
+18 4 ./target/debug/.fingerprint/anyhow-7e9ff9d401956f71/invoked.timestamp
+18 5 ./target/debug/.fingerprint/finddups-7b588ac94871acf2/invoked.timestamp
+18 6 ./target/debug/.fingerprint/finddups-f6e6e24bc0030c55/invoked.timestamp
+18 7 ./target/debug/.fingerprint/finddups-b6342977faa8b9b0/invoked.timestamp
+18 8 ./target/debug/.fingerprint/finddups-430fa4eae7ed50cc/invoked.timestamp
+18 9 ./target/debug/.fingerprint/finddups-d59d27d4b8f96fbe/invoked.timestamp
+18 10 ./target/debug/.fingerprint/finddups-5b404ab7b1f47c43/invoked.timestamp
+18 11 ./target/debug/.fingerprint/finddups-8d1f4167844329a4/invoked.timestamp
+18 12 ./target/debug/.fingerprint/finddups-64531d76a805f1da/invoked.timestamp
+18 13 ./target/debug/.fingerprint/finddups-c0be73da4a33dbaa/invoked.timestamp
+18 14 ./target/debug/.fingerprint/finddups-14d0e5ae7d86272c/invoked.timestamp
+18 15 ./target/debug/.fingerprint/finddups-da71d30ebb44b11b/invoked.timestamp
+18 16 ./target/debug/.fingerprint/finddups-5ea13f1eed189098/invoked.timestamp
+18 17 ./target/debug/.fingerprint/finddups-c84d5e22eaf5504f/invoked.timestamp
+18 18 ./target/debug/.fingerprint/finddups-0fd9376c6096dcd5/invoked.timestamp
+22 1 ./out.txt
+22 2 ./target/debug/.cargo-lock
+22 3 ./target/debug/build/anyhow-2be445724ae0a4a6/stderr
+22 4 ./target/debug/build/anyhow-2be445724ae0a4a6/output
+22 5 ./target/debug/deps/libfinddups-c0be73da4a33dbaa.rmeta
+22 6 ./target/debug/deps/libfinddups-da71d30ebb44b11b.rmeta
+22 7 ./target/debug/deps/libfinddups-14d0e5ae7d86272c.rmeta
+22 8 ./target/debug/deps/libfinddups-f6e6e24bc0030c55.rmeta
+22 9 ./target/debug/deps/libfinddups-64531d76a805f1da.rmeta
+22 10 ./target/debug/deps/libfinddups-d59d27d4b8f96fbe.rmeta
+22 11 ./target/debug/deps/libfinddups-8d1f4167844329a4.rmeta
+22 12 ./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3graw8-gl1jua.lock
+22 13 ./target/debug/incremental/finddups-us74lwqsm8dw/s-g79wtmb1jc-1f1a21r.lock
+22 14 ./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91inr6c-19usnw.lock
+22 15 ./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91hhwsx-167vy3n.lock
+22 16 ./target/debug/incremental/finddups-2wxmfg0efatjg/s-gcd91nuovi-1ux879h.lock
+22 17 ./target/debug/incremental/finddups-23d9lf16x0fu3/s-gcd91hhv10-1iesmty.lock
+22 18 ./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3graw8-1gyg6qb.lock
+22 19 ./target/debug/incremental/finddups-12sjozvjspvkc/s-g79x3i3bge-1i8bded.lock
+22 20 ./target/debug/incremental/finddups-1f2if2ruest4w/s-gcd51prf27-1kmgykl.lock
+22 21 ./target/debug/incremental/finddups-3v8o6siucua1i/s-gcd91insoo-1ksuvms.lock
+22 22 ./target/debug/incremental/finddups-2z8zvpn88dzm2/s-g79x3i3bjl-1l8y9dk.lock

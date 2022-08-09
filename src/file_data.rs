@@ -1,5 +1,5 @@
 use std::{
-    fs::{DirEntry, File},
+    fs::File,
     io::{prelude::*, BufReader},
     os::unix::prelude::MetadataExt,
     path::{Path, PathBuf},
@@ -12,13 +12,15 @@ pub enum FileKind {
     Directory,
     Link,
 }
-pub struct Duplicate {
+
+#[derive(Debug)]
+pub struct FileData {
     pub path: PathBuf,
     pub size: u64,
     pub kind: FileKind,
 }
 
-impl Duplicate {
+impl FileData {
     pub fn new(path: PathBuf, size: u64, kind: FileKind) -> Self {
         Self { path, size, kind }
     }
@@ -57,6 +59,17 @@ impl Duplicate {
         Ok(true)
     }
 
+    pub fn from_direntry(entry: walkdir::DirEntry) -> anyhow::Result<Self> {
+        let meta = entry.metadata()?;
+        let kind = match &meta {
+            m if m.is_file() => FileKind::File,
+            m if m.is_dir() => FileKind::Directory,
+            m if m.is_symlink() => FileKind::Link,
+            _ => FileKind::Other,
+        };
+        Ok(FileData::new(entry.into_path(), meta.size(), kind))
+    }
+
     pub fn from_path<P>(path: P) -> anyhow::Result<Self>
     where
         P: AsRef<Path>,
@@ -69,22 +82,6 @@ impl Duplicate {
             m if m.is_symlink() => FileKind::Link,
             _ => FileKind::Other,
         };
-        Ok(Duplicate::new(path.as_ref().to_path_buf(), meta.size(), fk))
-    }
-}
-
-impl TryFrom<String> for Duplicate {
-    type Error = anyhow::Error;
-
-    fn try_from(value: String) -> Result<Self, Self::Error> {
-        Duplicate::from_path(value)
-    }
-}
-
-impl TryFrom<&DirEntry> for Duplicate {
-    type Error = anyhow::Error;
-
-    fn try_from(value: &DirEntry) -> Result<Self, Self::Error> {
-        Duplicate::from_path(value.path())
+        Ok(FileData::new(path.as_ref().to_path_buf(), meta.size(), fk))
     }
 }

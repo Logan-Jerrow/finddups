@@ -5,16 +5,24 @@ use std::{
     path::Path,
 };
 
-use info::{Duplicate, FileKind};
+use file_data::{FileData, FileKind};
+use walkdir::WalkDir;
 
-mod info;
+mod file_data;
 
-struct Group<'a> {
+#[derive(Debug)]
+struct Group {
     count: usize,
-    paths: Vec<&'a Duplicate>,
+    paths: Vec<FileData>,
 }
 
-impl<'a> Default for Group<'a> {
+impl Group {
+    fn new(count: usize, paths: Vec<FileData>) -> Self {
+        Group { count, paths }
+    }
+}
+
+impl Default for Group {
     fn default() -> Self {
         Self {
             count: 1,
@@ -28,7 +36,7 @@ fn main() -> anyhow::Result<()> {
 
     let files = get_files(args);
 
-    let groups = get_groups(&files)?;
+    let (groups, errors) = get_groups(files);
 
     for g in groups {
         for (i, p) in g.paths.into_iter().enumerate() {
@@ -36,17 +44,24 @@ fn main() -> anyhow::Result<()> {
         }
     }
 
+    if !errors.is_empty() {
+        eprintln!("\n\nErrors: {:#?}", errors);
+    }
+
     Ok(())
 }
 
 /// One possible implementation of walking a directory only visiting files
-fn visit_dirs(dir: &Path, cb: &mut dyn FnMut(&DirEntry)) -> io::Result<()> {
-    if dir.is_dir() {
-        for entry in fs::read_dir(dir)? {
-            let entry = entry?;
-            let ft = entry.file_type()?;
-            // let path = entry.path();
-            // if path.is_dir() {
+fn visit_dirs<C>(dir: &Path, cb: &mut C) -> io::Result<()>
+where
+    C: FnMut(&DirEntry),
+{
+    if !dir.is_dir() {
+        return Ok(());
+    }
+
+    for entry in fs::read_dir(dir)?.filter_map(Result::ok) {
+        if let Ok(ft) = entry.file_type() {
             if ft.is_dir() {
                 visit_dirs(&entry.path(), cb)?;
             } else if ft.is_file() {
@@ -57,11 +72,19 @@ fn visit_dirs(dir: &Path, cb: &mut dyn FnMut(&DirEntry)) -> io::Result<()> {
     Ok(())
 }
 
-fn get_files(args: impl Iterator<Item = String>) -> Vec<Duplicate> {
+fn transverse<C>(dir: &Path, files: &mut Vec<FileData>) -> anyhow::Result<()> {
+    for entry in WalkDir::new(dir).into_iter().filter_map(Result::ok) {
+        let fd = FileData::from_direntry(entry)?;
+        files.push(fd);
+    }
+    Ok(())
+}
+
+fn get_files(args: impl Iterator<Item = String>) -> Vec<FileData> {
     // TODO: Add files from local env if no args given.
     // List files and directories from working directory.
     let (mut files, directories): (Vec<_>, Vec<_>) = args
-        .filter_map(|name| match Duplicate::try_from(name) {
+        .filter_map(|name| match FileData::from_path(name) {
             Ok(info) if info.is_file_or_dir() => Some(info),
             Ok(_) => None,
             Err(_) => None,
@@ -71,7 +94,7 @@ fn get_files(args: impl Iterator<Item = String>) -> Vec<Duplicate> {
     // Transverse directories grabbing every file path.
     for f in directories.iter() {
         let visit = visit_dirs(&f.path, &mut |entry| {
-            if let Ok(info) = Duplicate::try_from(entry) {
+            if let Ok(info) = FileData::from_path(entry.path()) {
                 files.push(info);
             };
         });
@@ -84,33 +107,28 @@ fn get_files(args: impl Iterator<Item = String>) -> Vec<Duplicate> {
     files
 }
 
-fn get_groups(files: &[Duplicate]) -> anyhow::Result<Vec<Group>> {
-    let mut visited = vec![false; files.len()];
+fn get_groups(mut files: Vec<FileData>) -> (Vec<Group>, Vec<anyhow::Error>) {
+    let mut errors = vec![];
     let mut groups: Vec<Group> = Vec::with_capacity(files.len());
 
-    for (i, f1) in files.iter().enumerate() {
-        if *visited.get(i).expect("visited vector out of bounds!") {
-            continue;
-        }
-        let mut group = Group::default();
+    while let Some(f) = files.pop() {
+        // Partition(split) duplicate files(f).
+        let (mut dups, leftover): (Vec<FileData>, Vec<FileData>) =
+            files.into_iter().partition(|d| match f.is_duplicate(d) {
+                Ok(pred) => pred,
+                Err(e) => {
+                    errors.push(e);
+                    false
+                }
+            });
+        files = leftover;
 
-        group.paths.push(f1);
-        for (j, f2) in files.iter().enumerate() {
-            // If same file don't compare.
-            if i == j {
-                break;
-            }
-            if f1.is_duplicate(f2)? {
-                group.count += 1;
-                group.paths.push(f2);
-                *visited
-                    .get_mut(j)
-                    .expect("Visited vector inner loop out of bounds!") = true;
-            }
-        }
-        if group.count > 1 {
-            groups.push(group);
-        }
+        dups.push(f);
+        dups.sort_unstable_by(|a, b| a.path.as_os_str().len().cmp(&b.path.as_os_str().len()));
+
+        groups.push(Group::new(dups.len(), dups));
     }
-    Ok(groups)
+
+    groups.sort_unstable_by(|a, b| a.count.cmp(&b.count));
+    (groups, errors)
 }
