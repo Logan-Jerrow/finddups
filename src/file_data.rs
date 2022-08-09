@@ -45,7 +45,10 @@ impl FileData {
 
         Ok(true)
     }
-    pub fn from_metadata(path: impl Into<PathBuf>, meta: std::fs::Metadata) -> Self {
+    pub fn from_metadata<I>(path: I, meta: std::fs::Metadata) -> Self
+    where
+        I: Into<PathBuf>,
+    {
         let kind = match &meta {
             m if m.is_file() => FileKind::File,
             m if m.is_dir() => FileKind::Directory,

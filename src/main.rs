@@ -1,29 +1,10 @@
 use file_data::{FileData, FileKind};
+use group::Group;
 use std::{env, path::Path};
 use walkdir::WalkDir;
 
 mod file_data;
-
-#[derive(Debug)]
-struct Group {
-    count: usize,
-    paths: Vec<FileData>,
-}
-
-impl Group {
-    fn new(count: usize, paths: Vec<FileData>) -> Self {
-        Group { count, paths }
-    }
-}
-
-impl Default for Group {
-    fn default() -> Self {
-        Self {
-            count: 1,
-            paths: Default::default(),
-        }
-    }
-}
+mod group;
 
 fn get_args() -> Vec<String> {
     let mut args: Vec<String> = env::args().skip(1).collect();
@@ -73,7 +54,6 @@ fn transverse(dir: &Path, files: &mut Vec<FileData>) {
 }
 
 fn get_files(args: Vec<String>) -> Vec<FileData> {
-    // TODO: Add files from local env if no args given.
     // List files and directories from working directory.
     let (mut files, directories): (Vec<_>, Vec<_>) = args
         .into_iter()
@@ -98,10 +78,11 @@ fn get_groups(mut files: Vec<FileData>) -> (Vec<Group>, Vec<anyhow::Error>) {
     let mut errors = vec![];
     let mut groups: Vec<Group> = Vec::with_capacity(files.len());
 
-    while let Some(f) = files.pop() {
+    while let Some(file) = files.pop() {
         // Partition(split) duplicate files(f).
+        // TODO: Move Vec creation out of loop.
         let (mut dups, leftover): (Vec<FileData>, Vec<FileData>) =
-            files.into_iter().partition(|d| match f.is_duplicate(d) {
+            files.into_iter().partition(|d| match file.is_duplicate(d) {
                 Ok(pred) => pred,
                 Err(e) => {
                     errors.push(e);
@@ -110,12 +91,24 @@ fn get_groups(mut files: Vec<FileData>) -> (Vec<Group>, Vec<anyhow::Error>) {
             });
         files = leftover;
 
-        dups.push(f);
+        dups.push(file);
+
+        // Sort by path name from short to long from within a group.
         dups.sort_unstable_by(|a, b| a.path.as_os_str().len().cmp(&b.path.as_os_str().len()));
 
         groups.push(Group::new(dups.len(), dups));
     }
 
-    groups.sort_unstable_by(|a, b| a.count.cmp(&b.count));
+    // Sorting by FileData count
+    // If count is equal then group by longest path the group contains
+    groups.sort_unstable_by(|a, b| match a.count.cmp(&b.count) {
+        std::cmp::Ordering::Equal => {
+            let fd = |fd: &FileData| fd.path.as_os_str().len();
+            let a = a.paths.last().map_or(0, fd);
+            let b = b.paths.last().map_or(0, fd);
+            a.cmp(&b)
+        }
+        o => o,
+    });
     (groups, errors)
 }
